@@ -26,6 +26,7 @@ Learn JavaScript the Moore way.
 21. Is 0 considered true or false (in JavaScript)?  Where does this idiom come from?
 22. What is the type of an array object in JavaScript?  Does this make sense?
 23. How do you test if an object is an array in JavaScript?
+24. Why should one prefer `{ }` and `[ ]` when creating objects and arrays over `new Object()` and `new Array()`?
 
 
 ###Performance
